@@ -13,7 +13,6 @@ This is the official repository of VINet module in "A Multi-user Oriented Live F
 
 
 ## Installation
----
 ```bash
 git clone https://github.com/Eric-chuan/VINet
 cd VINet
@@ -21,7 +20,6 @@ conda env create -f environments.yml
 conda activate VINet
 ```
 ## Usage
----
 ### interpolate the intermidate view bettween two view
 1. organize your multi-view image folder **\<img_dir\>** as follow
     ```
@@ -48,7 +46,6 @@ conda activate VINet
     ```
 4. you can increase the `--exp` to get a more intensive viewpoint
 ## Custom dataset
----
 1. prepare your own multi-view synchronized video
 2. organize your own multi-view synchronized video as follow
     ```
@@ -68,7 +65,6 @@ conda activate VINet
     python process-vimeo90k.py
     ```
 ## Train
----
 1. Run **main.py** with the following options in parse_args: 
     ```bash
     python -m torch.distributed.launch --nproc_per_node=2 train.py --world_size=2  --epoch=100 --batch_size=32
@@ -76,7 +72,6 @@ conda activate VINet
 ## Results
 ![quantitative comparisons](figures/result.png)
 ## Citation
----
 ```bib
 @article{hu2021multi,
   title={A Multi-user Oriented Live Free-viewpoint Video Streaming System Based On View Interpolation},
