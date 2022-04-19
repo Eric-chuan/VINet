@@ -2,7 +2,7 @@
 
 
 [![ArXiv](https://img.shields.io/badge/ArXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2112.10603)
-[![ICME2022](https://img.shields.io/badge/ICME2022-Paper-<COLOR>.svg)](https://openaccess.thecvf.com/content/ICCV2021/papers/Sim_XVFI_eXtreme_Video_Frame_Interpolation_ICCV_2021_paper.pdf)
+[![ICME2022](https://img.shields.io/badge/ICME2022-Paper-<COLOR>.svg)](https://arxiv.org/abs/2112.10603)
 <!-- [![GitHub Stars](https://img.shields.io/github/stars/JihyongOh/XVFI?style=social)](https://github.com/JihyongOh/XVFI) -->
 <!-- [![Demo views](https://img.shields.io/youtube/views/5qAiffYFJh8)](https://www.youtube.com/watch?v=5qAiffYFJh8&ab_channel=VICLabKAIST) -->
 
